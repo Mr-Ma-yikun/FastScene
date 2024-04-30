@@ -20,3 +20,7 @@ Comprehensive experiments demonstrate FastScene surpasses other methods in both 
 Notably, guided only by a text prompt, FastScene can generate a 3D scene within a mere 15 minutes, 
 which is at least one hour fast than state-of-the-art methods,
 making it a paradigm for user-friendly scene generation. 
+
+ # Getting Started
+
+ # Running
