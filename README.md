@@ -1,8 +1,7 @@
 # FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting (IJCAI-2024)
-FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting (IJCAI-2024)
 
 # Introduction
-This repository contains the official PyTorch implementation for the IJCAI 2024 paper titled "FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting" by Yikun Ma and Zhi Jin.
+This repository contains the official PyTorch implementation for the IJCAI 2024 paper titled "FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting" by Yikun Ma, Dandan Zhan, and Zhi Jin.
 ![TWQY6AJ~~KHD2Q3YJ)SK}AD](https://github.com/Mr-Ma-yikun/FastScene/assets/72637909/90bd3184-f91f-4401-b4f7-4b3421f67359)
 
 # Abstract
@@ -25,6 +24,35 @@ Notably, guided only by a text prompt, FastScene can generate a complete 3D scen
 which is at least one hour faster than state-of-the-art methods,
 making it a paradigm for user-friendly scene generation. 
 
- # Getting Started
+# Requirements
 
- # Running
+
+# Getting Started
+
+### 1. Download Pre-trained Models：
+
+### 2. Running：
+
+ 
+## TODO
+- [x] Release the paper on [ArXiv](https://arxiv.org/abs/2405.05768).
+- [ ] Release the code for FastScene.
+- [ ] Release more pre-trained models and evaluation results.
+
+## Acknowledgement
+
+This work was supported by [Frontier Vision Lab](https://fvl2020.github.io/fvl.github.com/), SUN YAT-SEN University.
+
+## Citation
+If you find this work helpful, please consider citing:
+
+```
+@inproceedings{ma2024fastscene,
+  title={FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting},
+  author={Ma, Yikun, Zhan, Dandan, and Jin, Zhi},
+  booktitle={Proceedings of the 33rd International Joint Conference on Artificial Intelligence(IJCAI)},
+  year={2024}
+}
+```
+
+Feel free to reach out for any questions or issues related to the project. Thank you for your interest!
