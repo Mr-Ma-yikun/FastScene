@@ -1,7 +1,11 @@
 # FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting (IJCAI-2024)
 FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting (IJCAI-2024)
 
- # Abstract
+# Introduction
+This repository contains the official PyTorch implementation for the IJCAI 2024 paper titled "FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting" by Yikun Ma and Zhi Jin.
+![TWQY6AJ~~KHD2Q3YJ)SK}AD](https://github.com/Mr-Ma-yikun/FastScene/assets/72637909/90bd3184-f91f-4401-b4f7-4b3421f67359)
+
+# Abstract
 Text-driven 3D indoor scene generation holds broad applications, 
 ranging from gaming and smart home technologies to augmented and virtual reality (AR/VR) applications. 
 Fast and high-fidelity scene generation is paramount for ensuring user-friendly experiences. 
