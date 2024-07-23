@@ -1,0 +1,18 @@
+######################### EGformer ############################
+# S3d
+python3 evaluate_main.py --method EGformer  --eval_data Structure3D --checkpoint_path ../pretrained_models/EGformer_pretrained.pkl --S3D_path YOUR_DATA_PATH/Structured3D/test --world_size 1 --rank 0 --gpu 0   
+
+# Pano3D
+#python3 evaluate_main.py --method EGformer  --eval_data Pano3D --checkpoint_path ../pretrained_models/EGformer_pretrained.pkl  --world_size 1 --rank 0 --gpu 0 --pano3d_root YOUR_DATA_PATH/Pano3D_folder 
+
+######################### Panoformer ############################
+# S3D
+#python3 evaluate_main.py --method Panoformer  --eval_data Structure3D --checkpoint_path ../pretrained_models/Panoformer_pretrained.pkl --S3D_path YOUR_DATA_PATH/Structured3D/test --world_size 1 --rank 0 --gpu 0   
+
+# Pano3D
+#python3 evaluate_main.py --method Panoformer  --eval_data Pano3D --checkpoint_path ../pretrained_models/Panoformer_pretrained.pkl  --world_size 1 --rank 0 --gpu 0 --pano3d_root YOUR_DATA_PATH/Pano3D_folder
+
+
+
+
+

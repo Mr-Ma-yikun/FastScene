@@ -1,0 +1,14 @@
+######################### Inference EGformer ############################
+
+python3 evaluate_main.py --method EGformer  --eval_data Inference --checkpoint_path ../pretrained_models/EGformer_pretrained.pkl --world_size 1 --rank 0 --gpu 0 --data_path ./evaluate/INFER_SAMPLE --save_sample --output_path ./test_result
+
+######################### Panoformer ############################
+
+#python3 evaluate_main.py --method Panoformer  --eval_data Inference --checkpoint_path ../pretrained_models/Panoformer_pretrained.pkl --world_size 1 --rank 0 --gpu 0  --data_path ./INFER_SAMPLE --save_sample --output_path ./test_result
+
+
+
+
+
+
+
