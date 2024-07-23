@@ -20,7 +20,7 @@ cd SD-T2I-360PanoImage
 pip install -r requirements.txt
 ```
 
-2. You can follow the environment setup guide provided by 3DGS  https://github.com/graphdeco-inria/gaussian-splattingto and install the corresponding environment.
+2. You can follow the environment setup guide provided by 3DGS  https://github.com/graphdeco-inria/gaussian-splatting and install the corresponding environment.
 
 # Getting Started
 
