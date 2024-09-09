@@ -74,11 +74,14 @@ This work was supported by [Frontier Vision Lab](https://fvl2020.github.io/fvl.g
 If you find this work helpful, please consider citing:
 
 ```
-@article{ma2024fastscene,
+@inproceedings{ma2024fastscene,
   title={FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting},
   author={Ma, Yikun and Zhan, Dandan and Jin, Zhi},
-  journal={arXiv preprint arXiv:2405.05768},
-  year={2024}
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  pages     = {1173--1181},
+  year      = {2024},
+  doi       = {10.24963/ijcai.2024/130}
 }
 ```
 
