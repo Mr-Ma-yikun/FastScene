@@ -28,8 +28,9 @@ pip install -r requirements.txt
 
 We have provided corresponding pre-trained weights, which you can download:
 
-Link：https://pan.baidu.com/s/1Cm4ChVSHw-2NbDbPnvixZg 
-Code：6666
+Link：https://pan.baidu.com/s/1cabfe0FMoGJ2j4VkrywzzA 
+  
+Code：7777
 
 Then, follow the settings in the `pro_inpaint.py` to place these weights in the corresponding locations.
 
